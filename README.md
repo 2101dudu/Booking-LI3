@@ -59,7 +59,7 @@ This project aimed to parse data from .csv files, interpret said data, and provi
 ![Automatic Testing Result](ReadMe_Photos/Automatic_Testing_Result.png)
 ![Automatic Testing Information](ReadMe_Photos/Automatic_Testing_Information.png)
 
-<h4 align="center">Our group was one of 23 that finished with a perfect mark on all parameters, out of a total of 99 groups</h4> 
+<h4 align="center">Our group was 1 of 23 that finished with a perfect mark on all parameters, out of a total of 99 groups</h4> 
 
 
 
