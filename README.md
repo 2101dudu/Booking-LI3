@@ -2,7 +2,7 @@
 
 <h3 align="center"> Made using the C programming language and heavy usage of GLib data structures during the 1st semester of the 2nd year</h3> 
 
-<h1 align="center">Final Grade: 18/20💫</h1>
+<h1 align="center">Final Grade: 16/20🍀</h1>
 
 <h1>About</h1> 
 This project aimed to parse data from .csv files, interpret said data, and provide queries for the user to manipulate and understand certain aspects of the database, obtaining key insights in the process.
